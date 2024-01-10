@@ -1,0 +1,36 @@
+*{
+    font-family: arial;
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper{
+    height: 100vh;
+    width: 100vw;
+}
+
+.leva-cast{
+    float: left;
+    height: 100%;
+    width: 50%;
+}
+
+.prava-cast{
+    float: right;
+    height: 100%;
+    width: 50%;
+    text-align: center;
+    border-left: solid 1vh black;
+    padding: 10%;
+}
+
+.obrazek{
+    height: 100%;
+    width: 100%;
+}
+
+p{
+    font-size: 3vh;
+    top: 10%;
+    position: relative;
+}
